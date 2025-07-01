@@ -96,11 +96,6 @@ Hospital-Management-System/
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add terminal screenshots showing login, adding doctor, patient, and scheduling appointment here)*
-
----
 
 ## 👨‍💻 Team Members
 
